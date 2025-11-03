@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://vsviji.github.io/zeal-taste",
+  "homepage": "https://vsviji.github.io/zeal-taste-app",
 
   "scripts": {
     "dev": "vite",
